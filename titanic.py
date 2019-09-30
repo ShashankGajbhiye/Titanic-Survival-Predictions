@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 24 16:24:37 2019
+# Titanic Survival Prediction Problem
 
-@author: Shashank
-"""
 
 """-----PART 1-----"""
 
